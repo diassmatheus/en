@@ -3,4 +3,5 @@
  80% - Advanced (Avançado)
  70% - Skilled (Habilidoso)
  60% - Competent (Competente)
- 50% - Developing (Em desenvolvimento)
+ 50% - Begginer (Iniciante)
+ 40% - Developing (Em desenvolvimento)
